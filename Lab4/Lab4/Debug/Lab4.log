@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\HomeW\Profund\Lab4\Lab4\Source.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+D:\HomeW\Profund\Lab4\Lab4\Source.cpp(13,47): warning C4018: '<': signed/unsigned mismatch
+D:\HomeW\Profund\Lab4\Lab4\Source.cpp(18,10): warning C4018: '<': signed/unsigned mismatch
+  Lab4.vcxproj -> D:\HomeW\Profund\Lab4\Debug\Lab4.exe
