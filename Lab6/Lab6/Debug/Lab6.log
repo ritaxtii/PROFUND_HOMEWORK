@@ -1,13 +1,4 @@
 ﻿  Source.cpp
-D:\HomeW\Profund\Lab6\Lab6\Source.cpp(13,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Lab6\Lab6\Source.cpp(13,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Lab6\Lab6\Source.cpp(20,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Lab6\Lab6\Source.cpp(20,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Lab6\Lab6\Source.cpp(27,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Lab6\Lab6\Source.cpp(27,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Lab6\Lab6\Source.cpp(34,15): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Lab6\Lab6\Source.cpp(34,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Lab6\Lab6\Source.cpp(42,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Lab6\Lab6\Source.cpp(42,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Lab6\Lab6\Source.cpp(83,21): warning C4018: '<': signed/unsigned mismatch
-  Lab6.vcxproj -> D:\HomeW\Profund\Lab6\Debug\Lab6.exe
+D:\HomeW\Profund\Git\Lab6\Lab6\Source.cpp(14,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Git\Lab6\Lab6\Source.cpp(14,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Lab6.vcxproj -> D:\HomeW\Profund\Git\Lab6\Debug\Lab6.exe

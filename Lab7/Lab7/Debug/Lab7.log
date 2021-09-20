@@ -1,0 +1,20 @@
+﻿  Source.cpp
+D:\HomeW\Profund\Lab7\Lab7\Source.cpp(8,30): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Lab7\Lab7\Source.cpp(8,32): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Lab7\Lab7\Source.cpp(24,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Lab7\Lab7\Source.cpp(24,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Lab7\Lab7\Source.cpp(31,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Lab7\Lab7\Source.cpp(31,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Lab7\Lab7\Source.cpp(45,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Lab7\Lab7\Source.cpp(45,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Lab7\Lab7\Source.cpp(52,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Lab7\Lab7\Source.cpp(52,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Lab7\Lab7\Source.cpp(59,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Lab7\Lab7\Source.cpp(59,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Lab7\Lab7\Source.cpp(66,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Lab7\Lab7\Source.cpp(66,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Lab7\Lab7\Source.cpp(74,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Lab7\Lab7\Source.cpp(74,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Lab7\Lab7\Source.cpp(90,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\HomeW\Profund\Lab7\Lab7\Source.cpp(125,27): warning C4018: '<': signed/unsigned mismatch
+  Lab7.vcxproj -> D:\HomeW\Profund\Lab7\Debug\Lab7.exe
