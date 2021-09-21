@@ -1,16 +1,16 @@
 ﻿  Source.cpp
 D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(25,30): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
 D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(25,32): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(42,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(42,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(49,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(49,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(56,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(56,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(63,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(63,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
-D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(112,23): warning C4018: '<': signed/unsigned mismatch
-D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(155,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(167,27): warning C4018: '<': signed/unsigned mismatch
-D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(188,104): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(39,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(39,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(46,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(46,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(53,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(53,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(60,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(60,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(118,23): warning C4018: '<': signed/unsigned mismatch
+D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(159,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(171,27): warning C4018: '<': signed/unsigned mismatch
+D:\HomeW\Profund\Git\Lab8\Lab8\Source.cpp(191,104): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
   Lab8.vcxproj -> D:\HomeW\Profund\Git\Lab8\Debug\Lab8.exe
